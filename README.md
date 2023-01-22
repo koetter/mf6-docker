@@ -11,7 +11,7 @@ With inspiration from [https://github.com/mjstealey/docker-modflow]
 To use the Docker image, you need to have Docker installed - see [https://docs.docker.com/engine/install/] for instructions about this.
 
 Then:
-- Clone the repository to your desktop
+- Clone the repository to your local drive
 - cd into the cloned directory (mf6-docker)
 - Build and run the container:
 ```shell
