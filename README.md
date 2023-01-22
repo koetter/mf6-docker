@@ -1,7 +1,7 @@
 # mf6-docker
 Running USGS ModFlow 6 in a Docker container
 
-This is a Proof Of Concept project, that demonstrates building a ubuntu-based docker-container with USGS Modflow 6 installed. Running the container will run model-files in the containers directory /workspace/models. 
+This is a POC project, that demonstrates building an ubuntu-based docker-container with USGS Modflow 6 installed. Running the container will run model-files in the containers directory /workspace/models. 
 
 With inspirating from [[https://github.com/mjstealey/docker-modflow]]
 
