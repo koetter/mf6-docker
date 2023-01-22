@@ -25,7 +25,7 @@ If everything worked, this will result in the help-command of Modflow 6. This is
 
 ## Test-run
 To test it with one of the examples from the model-code.
-````shell
+```shell
 docker run -it -v "${PWD}/model":/workspace/model mf6-test
 ```
-and watch the output
+... and watch the output
