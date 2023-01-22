@@ -23,7 +23,7 @@ Wach the output, and after the build is done:
 docker run -it mf6-test
 ```
 
-If everything worked, this will output the help-command of Modflow 6. This is because the containers comes with am empty model directory! To run the container on an actual model, you need to link a directory on your harddrive - containing modflow data-files and a "mfsim.nam" file - to the containers 'model' directory as a volume (see example below).
+If everything worked, this will output the help-command of Modflow 6. This is because the container image is built with am empty model directory! To run the container on an actual model, you need to link a directory on your harddrive - containing modflow data-files and a "mfsim.nam" file - to the containers 'model' directory as a volume (see example below).
 
 ## Test-run
 To test it with one of the examples from the model-code.
