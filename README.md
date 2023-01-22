@@ -5,7 +5,7 @@ This is a POC project, that demonstrates building an ubuntu-based docker-contain
 
 See [https://github.com/MODFLOW-USGS/modflow6] and [https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model] for general information about Modflow 6.
 
-With inspirating from [https://github.com/mjstealey/docker-modflow]
+With inspiration from [https://github.com/mjstealey/docker-modflow]
 
 ## Using the container
 To use the Docker image, you need to have Docker installed - see [https://docs.docker.com/engine/install/] for instructions about this.
